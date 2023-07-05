@@ -11,7 +11,7 @@ The provided dashboard serves as a valuable tool for angel investors seeking to 
 # The Dataset
 This dataset consists of a total of 44 columns, which gave us the overall idea of start-ups that are present there in market. We use a total of 12 columns to visualize the important information out of the dataset. Below are the attributes that are used in the dashboard:
 
-<script src="https://gist.github.com/mrunalmania/1d6d0c4527ed8a81f7feea7a1f96f0b6#file-mrunal-dv-gist-csv"></script>
+<script src="https://gist.github.com/mrunalmania/1d6d0c4527ed8a81f7feea7a1f96f0b6.js"></script>
 
 # Preprocessing
 In the dashboard, we visualize the average time required for companies to achieve their first milestone, and to find this information, we used a calculated field to calculate the time difference for companies between the first funding round and the first milestone achieved.
